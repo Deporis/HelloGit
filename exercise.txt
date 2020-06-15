@@ -1,2 +1,4 @@
 Estic modificant el meu fixter des de la branca branch1
 Ja he actualitzat master, estic modificant l'arxiu txt des del master
+
+M'hauria de sortir un error al gitkraken, let's see
