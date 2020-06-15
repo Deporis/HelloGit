@@ -8,3 +8,5 @@ M'hauria de sortir un error al gitkraken, let's see
 
 
 Vamos a volver a empezar, Mensaje de branch1
+Estoy editando des de master, aún no puedo ver el cambio que se ha hecho en branch1
+Se ha resuelto el conflicto perfectamente, lo que no sé resolverlo des de Gitkraken
