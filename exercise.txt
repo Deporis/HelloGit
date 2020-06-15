@@ -3,3 +3,4 @@ Ja he actualitzat master, estic modificant l'arxiu txt des del master
 
 He fet malament l'exercici, ara estic modificant des de branch1
 Estic tornant a modificar en branch1, no m'apareix el missatge anterior de master, al fer el pull tindre problemes
+Quiero un conflict
